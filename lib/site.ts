@@ -23,15 +23,15 @@ import type {
  */
 
 export const BRAND = {
-  name: "SiamMove",
-  nameTh: "สยามมูฟ ขนย้าย",
+  name: "พีเอ็นขนย้าย",
+  nameTh: "พีเอ็นขนย้าย",
   tagline: "ขนย้ายมืออาชีพ ครบวงจร ทั่วประเทศ",
   established: "2558",
 } as const;
 
 export const CONTACT: ContactInfo = {
-  phone: "0800000000",
-  phoneDisplay: "080-000-0000",
+  phone: "0812345678",
+  phoneDisplay: "081-234-5678",
   lineId: "@siammove",
   lineUrl: "https://line.me/R/ti/p/@siammove",
   email: "contact@siammove.example",
