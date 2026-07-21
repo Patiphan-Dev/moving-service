@@ -67,7 +67,13 @@ export function Footer() {
         </p>
         <p className="mt-1 text-xs text-white/40">
           พัฒนาเว็บไซต์โดย{" "}
-          <span className="text-white/60">Patiphan Dev</span>
+          <a
+            href="mailto:patiphan.dev@gmail.com"
+            className="text-white/60 transition hover:text-white"
+          >
+            Patiphan Dev
+          </a>{" "}
+          · patiphan.dev@gmail.com
         </p>
       </Container>
     </footer>
