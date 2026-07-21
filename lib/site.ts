@@ -32,10 +32,10 @@ export const BRAND = {
 export const CONTACT: ContactInfo = {
   phone: "0812345678",
   phoneDisplay: "081-234-5678",
-  lineId: "@siammove",
-  lineUrl: "https://line.me/R/ti/p/@siammove",
-  email: "contact@siammove.example",
-  address: "123 ถ.ตัวอย่าง แขวงคลองเตย เขตคลองเตย กรุงเทพฯ 10110",
+  lineId: "@pnkhonyai",
+  lineUrl: "https://line.me/R/ti/p/@pnkhonyai",
+  email: "info@pnkhonyai.com",
+  address: "88/12 ถ.พระราม 9 แขวงห้วยขวาง เขตห้วยขวาง กรุงเทพฯ 10310",
   hours: "ทุกวัน 08:00 – 20:00 น.",
 };
 

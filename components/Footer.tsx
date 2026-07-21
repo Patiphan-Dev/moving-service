@@ -63,8 +63,11 @@ export function Footer() {
         </div>
 
         <p className="mt-6 text-xs text-white/50">
-          © {BRAND.established} {BRAND.nameTh}. เว็บไซต์ตัวอย่าง — ข้อมูลติดต่อเป็น
-          placeholder รอแทนที่ด้วยข้อมูลจริง
+          © {BRAND.established} {BRAND.nameTh}. สงวนลิขสิทธิ์
+        </p>
+        <p className="mt-1 text-xs text-white/40">
+          พัฒนาเว็บไซต์โดย{" "}
+          <span className="text-white/60">Patiphan Dev</span>
         </p>
       </Container>
     </footer>
