@@ -30,10 +30,10 @@ export const BRAND = {
 } as const;
 
 export const CONTACT: ContactInfo = {
-  phone: "0812345678",
-  phoneDisplay: "081-234-5678",
-  lineId: "@pnkhonyai",
-  lineUrl: "https://line.me/R/ti/p/@pnkhonyai",
+  phone: "081-XXX-XXXX",
+  phoneDisplay: "081-XXX-XXXX",
+  lineId: "@xxxxx",
+  lineUrl: "https://line.me/R/ti/p/@xxxxx",
   email: "info@pnkhonyai.com",
   address: "88/12 ถ.พระราม 9 แขวงห้วยขวาง เขตห้วยขวาง กรุงเทพฯ 10310",
   hours: "ทุกวัน 08:00 – 20:00 น.",
